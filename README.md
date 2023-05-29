@@ -8,4 +8,4 @@ JavaScript, HTML, CSS
 <img src="https://github.com/jpcardoso03/Projeto-convert-money/blob/master/images/converty.jpeg?raw=true" width="400px">
 
 ## Visualização em um dispositivo móvel
-<img src="https://github.com/jpcardoso03/Projeto-convert-money/blob/master/images/converty.jpeg?raw=true" height="400px">
+<img src="https://github.com/jpcardoso03/Projeto-convert-money/blob/master/images/converty-celular.jpg?raw=true" height="400px">
