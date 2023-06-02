@@ -49,8 +49,6 @@ if (select.value ===  "€ Euro") {
       }).format(inputreais / euro);
 }
 
-
-
 if (select.value === "Bitcoin") {
     currencyValueText.innerHTML = new Intl.NumberFormat("en-US", {
         style: "currency",
