@@ -53,7 +53,7 @@ if (select.value === "Bitcoin") {
     currencyValueText.innerHTML = new Intl.NumberFormat("en-US", {
         style: "currency",
         currency: "BTC",
-      }).format(inputreais / bitcoin);
+      }).format(inputreais / bitcoin)
 }
 
 };
